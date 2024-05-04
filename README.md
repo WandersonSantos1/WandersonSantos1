@@ -7,9 +7,15 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1500&color=00F7EC&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+my+name+is+Wanderson+Santos;I'm+21+years;I'm+a+Software+Developer;S%C3%A3o+Paulo+-+Brasil+;Python+-+HTML+-+CSS++-+JavaScript)](https://git.io/typing-svg)
 
+<br>
+<br>
+
+<div align="center">
+  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WandersonSantos1&theme=sea-dark&border_radius=20&date_format=j%2Fn%5B%2FY%5D&card_width=600)](https://git.io/streak-stats)
+
 </div>
-
-
 <div align="center"> 
 <a href="https://instagram.com/wann.santos" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/fa570f87-2ae6-4f38-9a4c-29dad8cf71af">
