@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/5873db4d-4c0f-4571-8c74-43b14123d1c0"/>
+<img width=100% bottom=50px src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/f312fd0c-4052-44a1-9cf8-4c0d792c8eeb"/>
 
 <br>
 <br>
@@ -14,6 +14,9 @@
   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WandersonSantos1&theme=sea-dark&border_radius=20&date_format=j%2Fn%5B%2FY%5D&card_width=600)](https://git.io/streak-stats)
+
+<br>
+<br>
 
 </div>
 <div align="center"> 
@@ -67,15 +70,22 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/db5f97a4-dde4-419b-8974-7bca102cd01b">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/05c73853-0bc7-4d32-b6aa-75d22ebf62aa">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 </div>
 
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWandersonSantos1&s=60&c=00bfff&bg=00000000&no=1&ff=digii&tb=&ta=" /></p> 
+<br>
+</div>
