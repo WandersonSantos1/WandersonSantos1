@@ -13,7 +13,7 @@
 <div align="center">
   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WandersonSantos1&theme=sea-dark&border_radius=20&date_format=j%2Fn%5B%2FY%5D&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WandersonSantos1&theme=gruvbox&locale=pt_BR)](https://git.io/streak-stats)
 
 <br>
 <br>
