@@ -24,7 +24,7 @@
 <img align="center" height="84" width="84" src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/fa570f87-2ae6-4f38-9a4c-29dad8cf71af">
 </a>
 
-<a href="mailto:wannssantos2003@gmail.com">
+<a href="mailto:santos.wanderson.dev@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/WandersonSantos1/WandersonSantos1/assets/102255256/f5d61dfa-c83a-4955-afd2-424e5b757d2f">
 </a>
 
